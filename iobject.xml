@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<IContainer>
+    <IObject type="image" name="imageName" path="PathTo">Something</IObject>
+</IContainer>

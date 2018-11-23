@@ -1,0 +1,11 @@
+# Gradle cache
+/.gradle/
+
+# IDE Settings
+/.idea/
+
+# IDE Build output
+/out/
+
+# All compiled classes.
+*.class
